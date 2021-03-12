@@ -16,7 +16,7 @@ public class Circle implements Shape {
 
 	@Override
 	public Double calculateArea() {
-		return Math.PI * radius.doubleValue();
+		return Math.PI * Math.pow(radius.doubleValue(), 2);
 	}
 
 	@Override

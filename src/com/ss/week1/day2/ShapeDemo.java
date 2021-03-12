@@ -7,7 +7,7 @@ package com.ss.week1.day2;
  * @author marvin
  *
  */
-public class ShapeTest {
+public class ShapeDemo {
 
 	/**
 	 * @param args
