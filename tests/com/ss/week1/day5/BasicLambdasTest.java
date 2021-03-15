@@ -1,14 +1,14 @@
-package com.ss.week1.day4;
+package com.ss.week1.day5;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
-class ProducerConsumerDemoTest {
+class BasicLambdasTest {
 
 	@Test
 	void mainTest() {
-		assertDoesNotThrow(() -> ProducerConsumerDemo.main(null));
+		assertDoesNotThrow(() -> BasicLambdas.main(null));
 	}
 
 }
